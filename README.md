@@ -1,6 +1,6 @@
 ### BOAS VINDAS AO MEU PERFIL 👻🤍
 
-meu nome é Júlia Jesus
+meu nome é **Júlia Jesus**
 
 - ESTOU ESTUDANDO NA [ALURA](https://www.alura.com.br)
 
